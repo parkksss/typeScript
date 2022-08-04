@@ -2,8 +2,8 @@
 // 1. 변수에 타입지정 = 변수에 실드를 씌운 것!! 
 // type : string, number, boolean, null, undefined, ...
 
-let 이름 :string = 'kim';
-let 나이 :number = 50;
+let 이름은 :string = 'kim';
+let 몇살 :number = 50;
 let 결혼했니 :boolean = true;
 
 // 2. array & object 자료

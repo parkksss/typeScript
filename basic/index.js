@@ -1,8 +1,8 @@
 // 220803
 // 1. 변수에 타입지정 = 변수에 실드를 씌운 것!! 
 // type : string, number, boolean, null, undefined, ...
-var 이름 = 'kim';
-var 나이 = 50;
+var 이름은 = 'kim';
+var 몇살 = 50;
 var 결혼했니 = true;
 // 2. array & object 자료
 // array는 array 자료안에 들어갈 타입도 같이 기입해줘야 한다 : 타입명[]
